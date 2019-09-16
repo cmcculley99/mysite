@@ -1,0 +1,32 @@
+#s-d031fe78-5173-4b71-aba4-109a18bce135 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-d031fe78-5173-4b71-aba4-109a18bce135 > #alignmentBox {
+  position: relative;
+  max-width: 1440px;
+  max-height: 1024px;
+}
+#s-d031fe78-5173-4b71-aba4-109a18bce135 #s-Desktop_HD_Copy {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-d031fe78-5173-4b71-aba4-109a18bce135 #s-Desktop_HD_Copy > img, #s-d031fe78-5173-4b71-aba4-109a18bce135 #s-Desktop_HD_Copy > svg {
+  height: 1024px;
+  width: 1440px;
+  box-shadow: none;
+}
+#s-d031fe78-5173-4b71-aba4-109a18bce135 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

@@ -1,0 +1,87 @@
+#s-454b26e2-0d6f-45c6-8080-b0b00967975b > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-454b26e2-0d6f-45c6-8080-b0b00967975b > #alignmentBox {
+  position: relative;
+  max-width: 1440px;
+  max-height: 1815px;
+}
+#s-454b26e2-0d6f-45c6-8080-b0b00967975b #s-Desktop_HD {
+  position: absolute;
+  width: 1440px;
+  height: 1815px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-454b26e2-0d6f-45c6-8080-b0b00967975b #s-Desktop_HD > img, #s-454b26e2-0d6f-45c6-8080-b0b00967975b #s-Desktop_HD > svg {
+  height: 1815px;
+  width: 1440px;
+  box-shadow: none;
+}
+#s-454b26e2-0d6f-45c6-8080-b0b00967975b #s-Button_1 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: transparent;
+  background-image: none;
+  border-radius: 0px 0px 0px 0px;
+  box-shadow: none;
+}
+#s-454b26e2-0d6f-45c6-8080-b0b00967975b #s-Button_1 {
+  position: absolute;
+  width: 106px;
+  height: 49px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  cursor: pointer;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  font-size: 10.0pt;
+  font-family: 'Arial',Arial;
+}
+#s-454b26e2-0d6f-45c6-8080-b0b00967975b #s-Button_1 > .clipping, #s-454b26e2-0d6f-45c6-8080-b0b00967975b #s-Button_1 > .paddingLayer {
+  height: 49px;
+  width: 106px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-454b26e2-0d6f-45c6-8080-b0b00967975b #s-Button_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-454b26e2-0d6f-45c6-8080-b0b00967975b #s-Button_1 span {
+  color: #030303;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-454b26e2-0d6f-45c6-8080-b0b00967975b #s-Button_1 span#rtr-s-Button_1_0 {
+  color: #030303;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-454b26e2-0d6f-45c6-8080-b0b00967975b > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
